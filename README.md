@@ -34,11 +34,11 @@ The following **additional** features are implemented:
 Here's a walkthrough of implemented user stories:
 
 <div>
-    <a href="https://www.loom.com/share/<VIDEO_ID>">
+    <a href="https://www.loom.com/share/11d67ac909c14c06aa24093fbbfde0fd">
       <p>TranslateMe - Video Walkthrough (click to watch on Loom)</p>
     </a>
-    <a href="https://www.loom.com/share/<VIDEO_ID>">
-      <img style="max-width:300px;" src="https://www.loom.com/v1/videos/<VIDEO_ID>/thumbnail.gif">
+    <a href="https://www.loom.com/share/11d67ac909c14c06aa24093fbbfde0fd">
+      <img style="max-width:300px;" src="https://www.loom.com/v1/videos/11d67ac909c14c06aa24093fbbfde0fd/thumbnail.gif">
     </a>
 </div>
 
